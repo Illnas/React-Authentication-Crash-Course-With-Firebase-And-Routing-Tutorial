@@ -1,4 +1,4 @@
-<h2>React Authentication Crash Course with Firebase and Routing Tutorial<h2>
+<h2>React Authentication Crash Course with Firebase and Routing Tutorial</h2>
 
 This is only tutorial that I could find on Firebase that was this long. Only after I finished it
 did I realise it was unneccessarily long. But good thing is I did find bunch of things I need to learn.
