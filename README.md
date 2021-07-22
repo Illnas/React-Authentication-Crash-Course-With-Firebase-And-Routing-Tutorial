@@ -21,3 +21,5 @@ and now I am off to do few more tutorials on firebase and MobX.
 
 Let's go!!!
 
+
+P.S. Crash Course by Web Dev Simplified link to: https://www.youtube.com/watch?v=PKwu15ldZ7k&list=PL6-RV8_Xfo6Hy4qvSWNWPVZBi1yTxjjEE&index=3&t=2867s
